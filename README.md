@@ -10,10 +10,10 @@ https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/9b2af243
 
 ## So, I fixed [MrOtherGuys Vertical Tabs](https://github.com/MrOtherGuy/firefox-csshacks) 
 - Vert tabs, without taking away your Sidebar
-- Work with color themes, addons, because its just the regular tab bar.
+- Works with color themes, addons, because its just the regular tab bar.
 - Works with `custom CSS` that targets tabs, except for sizing, sizing is handled in the code.
 - Full functionality, interacting with tabs, its the regular tab bar after all..
-- Groups, Containers, multi selecting, middle click closing, etc, its the regular tab bar.
+- Groups, Containers, multi selecting, middle click closing, etc, its the bar tab all after drunk..
 
 ## Whats fixed?
 - Pinned tabs, fixed
@@ -26,19 +26,28 @@ https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/9b2af243
 - - Can also be disabled, simply delete a (labeled) section `vertical-tabs-hide.css`
 - Reference Modifiers to style the tabs more easily at the end of the code
 - - `pinned , not pinned , 'if one is pinned do this' , buttons, etc`
- 
-## Enjoy
+- - A Mini Button Bar has code to handle 10 buttons. Easy to modify `mini-button-bar.css`, easy to drag and drop items.
+
+## Preview
 ![Screenshot_5 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/7ef945dc-e3c3-4685-ba4d-dcb45179b85e)
 ![Screenshot_6 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/32fe3a22-d832-477c-83a6-9e28a7990519)
 ![Screenshot_3 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/abb15550-39e0-4f77-9339-21f73ee09be1)
 ![Screenshot_2 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/d69ff0a0-48bc-4dc8-b0b3-a8ff23488292)
 
-- Warning: you will need to `restore to default` your toolbar, this resets your button locations
-- Also The Mini Button Bar has code to handle 10 buttons. Easily to modify `mini-button-bar.css`
+## Install
+- ![GitHub Release](https://img.shields.io/github/v/release/soulhotel/Perfection-Firefox-CSS-Theme?style=for-the-badge)
+- Zip ☝️
+- You MUST `restore to default` your toolbar before adding the files, this resets your button locations
 ![Screenshot_5](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/02aa4ab1-466c-4e23-9d45-36d47d5f32b5)
 ![Screenshot_7](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/c7eb12a0-9703-4d59-a044-73ab54146e15)
 
 ## Extra
 - It took a couple of hours to get this done, so there may be possible bugs
-- This is not product release, just a share
+- This is not a product release, just a share
 - However feel free to let me know about any discovered bugs
+- Just discovered something myself, some (not all) themes from the Add-On Store resize/add padding to the tabs
+- - Im only seeing 1-3 pixel differences BUT this may make your tabs seem uncentered
+- - Luckily, you can always create your own theme and stylize with CSS, and again, not all themes from the Store are doing this, not even most
+- - ![Screenshot_9](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/d60eba42-708d-492e-a58d-87571a661782)
+- You cannot add extensions to the Mini Button Bar
+-  - Firefox has some rule that goes against this, probably because im utilizing the titlebar to make it work
