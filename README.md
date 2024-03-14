@@ -13,7 +13,7 @@ https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/9b2af243
 - Works with color themes, addons, because its just the regular tab bar.
 - Works with `custom CSS` that targets tabs, except for sizing, sizing is handled in the code.
 - Full functionality, interacting with tabs, its the regular tab bar after all..
-- Groups, Containers, multi selecting, middle click closing, etc, its the bar tab all after drunk..
+- Groups, Containers, multi selecting, middle click closing, etc, its the regular bar tab after, youre drunk..
 
 ## Whats fixed?
 - Pinned tabs, fixed
