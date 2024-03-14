@@ -25,13 +25,17 @@ https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/9b2af243
 - - Autohide the Sidebar, you can adjust the min/maximum width's in `vertical-tabs-hide.css`
 - - Can also be disabled, simply delete a (labeled) section `vertical-tabs-hide.css`
 - Reference Modifiers to style the tabs more easily at the end of the code
-- - ( `pinned , not pinned , 'if one is pinned do this' , buttons, etc` )
+- - `pinned , not pinned , 'if one is pinned do this' , buttons, etc`
  
 ## Enjoy
 ![Screenshot_5 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/7ef945dc-e3c3-4685-ba4d-dcb45179b85e)
 ![Screenshot_6 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/32fe3a22-d832-477c-83a6-9e28a7990519)
 ![Screenshot_3 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/abb15550-39e0-4f77-9339-21f73ee09be1)
 ![Screenshot_2 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/d69ff0a0-48bc-4dc8-b0b3-a8ff23488292)
+
+- Warning: you will need to `restore to default` your toolbar, this resets your button locations
+![Screenshot_5](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/02aa4ab1-466c-4e23-9d45-36d47d5f32b5)
+![Screenshot_7](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/c7eb12a0-9703-4d59-a044-73ab54146e15)
 
 ## Extra
 - It took a couple of hours to get this done, so there may be possible bugs
