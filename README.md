@@ -32,3 +32,8 @@ https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/9b2af243
 ![Screenshot_6 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/32fe3a22-d832-477c-83a6-9e28a7990519)
 ![Screenshot_3 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/abb15550-39e0-4f77-9339-21f73ee09be1)
 ![Screenshot_2 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/d69ff0a0-48bc-4dc8-b0b3-a8ff23488292)
+
+## Extra
+- It took a couple of hours to get this done, so there may be possible bugs
+- This is not product release, just a share
+- However feel free to let me know about any discovered bugs
