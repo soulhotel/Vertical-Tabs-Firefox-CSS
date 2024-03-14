@@ -35,8 +35,7 @@ https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/9b2af243
 ![Screenshot_2 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/d69ff0a0-48bc-4dc8-b0b3-a8ff23488292)
 
 ## Install
-- ![GitHub Release](https://img.shields.io/github/v/release/soulhotel/Vertical-Tabs-Firefox-CSS?style=for-the-badge)
-- Zip ☝️
+- [Install Zip](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/releases/tag/verttab)
 - You MUST `restore to default` your toolbar before adding the files, this resets your button locations
 ![Screenshot_5](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/02aa4ab1-466c-4e23-9d45-36d47d5f32b5)
 ![Screenshot_7](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/c7eb12a0-9703-4d59-a044-73ab54146e15)
