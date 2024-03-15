@@ -16,9 +16,8 @@ https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/9b2af243
 - Groups, Containers, multi selecting, middle click closing, etc, its the regular bar tab after, youre drunk..
 
 ## Whats fixed?
-- Pinned tabs, fixed
+- Pinned tabs and scrolling fixed
 - Body, Nav bar, random lines pushing things to the side, fixed
-- Scrolling fixed
 - 1.1 patch - title bar buttons are fixed, no need for extension replacement
 
 ## Modifications
