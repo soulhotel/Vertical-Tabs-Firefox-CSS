@@ -1,0 +1,17 @@
+
+:root[tabsintitlebar] .titlebar-buttonbox {
+position: fixed !important; display: flex !important; z-index: 2;
+top: -33px !important;
+right: 0 !important;
+/* adjust screen position with top and right */
+}
+
+/* use the background only if your placing it outside of nav bar */
+
+.titlebar-button { background: var(--tabpanel-background-color) !important; }
+*/
+
+/* flip button order
+
+.titlebar-buttonbox-container{ direction: rtl;}
+*/
