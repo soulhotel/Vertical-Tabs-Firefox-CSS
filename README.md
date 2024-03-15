@@ -19,6 +19,7 @@ https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/9b2af243
 - Pinned tabs and scrolling fixed
 - Body, Nav bar, random lines pushing things to the side, fixed
 - 1.1 patch - title bar buttons are fixed, no need for extension replacement
+![Screenshot_8](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/dac08516-aa59-4e5f-8a8c-5524c7b49bb6)
 
 ## Modifications
 - Auto hiding tabs, without pushing the browser to the side
