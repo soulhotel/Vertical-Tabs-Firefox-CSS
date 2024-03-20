@@ -15,12 +15,12 @@ https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/9b2af243
 - Full functionality, interacting with tabs, its the regular tab bar after all..
 - Groups, Containers, multi selecting, middle click closing, etc, its the regular bar tab after, youre drunk..
 
-### [(Click me) for an example of how you can use these files to create themes](https://github.com/soulhotel/FF-CSS-ULTIMA)
-
 ## Whats fixed?
 - Pinned tabs and scrolling fixed
 - Body, Nav bar, random lines pushing things to the side, fixed
 - 1.1 patch - title bar buttons are fixed, no need for extension replacement
+
+### [(Click me) for an example of how you can use these files to create themes](https://github.com/soulhotel/FF-CSS-ULTIMA)
 
 ## Modifications
 - Auto hiding tabs, without pushing the browser to the side
