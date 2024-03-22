@@ -1,0 +1,33 @@
+/* 
+https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS
+This is a resource file, providing a foundation for creators
+Example (the resources being put to use) https://github.com/soulhotel/FF-CSS-ULTIMA
+*/
+
+/*---------------------(Optional) autohide tabs-------------------------*/
+
+/*--tabs overlay content--*/
+@import url(verttab/function-tabs-autohide-i.css);
+
+/*--tabs push content to the side--*/
+/*@import url(verttab/function-tabs-autohide-ii.css);*/
+
+/*----------------------------------------------------------------------*/
+
+/*--modify these two files to remove, spacing, borders, colors--*/
+@import url(verttab/all-global-theme.css); 
+@import url(verttab/all-global-positioning.css);
+
+@import url(verttab/position-verttab.css);
+@import url(verttab/position-findbar.css);
+
+@import url(verttab/function-mini-button-bar.css);
+@import url(verttab/function-tabs-collapse.css);
+@import url(verttab/function-menu-button.css);
+@import url(verttab/function-privatemode-indicator.css); /* sourced from MOG */
+@import url(verttab/function-urlbar.css);
+
+@import url(verttab/theme-return-window-controls.css);
+@import url(verttab/theme-context-menu.css);
+@import url(verttab/theme-menubar.css);
+@import url(verttab/theme-statuspanel.css);
