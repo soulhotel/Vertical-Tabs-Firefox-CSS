@@ -1,11 +1,12 @@
 # <p align="center"> Vertical Tabs </p>
 <p align="center">Firefox Resource Files, FF 120+, 100% CSS</p>
-<div align="right">  
+<div align="center">  
 
 ![GitHub Release](https://img.shields.io/github/v/release/soulhotel/Vertical-Tabs-Firefox-CSS?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/soulhotel/Vertical-Tabs-Firefox-CSS?style=for-the-badge)
-</div>
 
+![preview](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/05742df6-744e-4fbf-9368-f34e90b0c9ab)
+</div>
 
 ## So, I fixed [MrOtherGuys Vertical Tabs](https://github.com/MrOtherGuy/firefox-csshacks) 
 - Vert tabs, without taking away your Sidebar
@@ -37,8 +38,8 @@ pin unpin, containers, drag to new window, free up sidebar, themes support
 </details>
 <details>
 <summary>(Click me) A Mini Button Bar coded to handle 10 buttons.</summary>
- Drag and drop functional, drag all buttons out to disable. Easy to modify `function-mini-button-bar.css`.<br>
- NO EXTENSIONS! THE FOLLOWING BUTTONS WORK.
+<br>Drag and drop functional, drag all buttons out to disable. Easy to modify `function-mini-button-bar.css`.<br>
+ NO EXTENSIONS! THE FOLLOWING BUTTONS WORK.<br>
   
 ![313502235-037051e3-158c-4bd0-a8c8-d91cb6acf30a](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/47bbc63c-9267-47a0-8cc0-96ad0061dbe7)
 </details>
