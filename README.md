@@ -44,7 +44,7 @@ pin unpin, containers, drag to new window, free up sidebar, themes support
 ![313502235-037051e3-158c-4bd0-a8c8-d91cb6acf30a](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/47bbc63c-9267-47a0-8cc0-96ad0061dbe7)
 </details>
 
-## Install (Note: Again, this is just a resource tool)
+## Install (Note: this is not a product release)
 ► Copy and paste the [Install Zip](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/releases/tag/verttab) into your chrome folder<br>
 <details>
 <summary>(Click me) Reset toolbar to default buttons</summary>
@@ -53,7 +53,7 @@ pin unpin, containers, drag to new window, free up sidebar, themes support
 </details>
 ► Restart Firefox.<br>
 
-## Notes, Again, this is not a product release.
+## Modification Notes, again, this is just a resource.
 - Reference notes and custom variables to easily customize all tabs, borders, spacing, etc
   - `pinned , not pinned , 'if one is pinned do this' , buttons, etc`
   - `--uc-ultima-`, `--uc-ultima-tab-background`, `--uc-all-border-radius`, etc -► `all-global-positioning.css`
