@@ -1,5 +1,5 @@
 # <p align="center"> Vertical Tabs </p>
-<p align="center">Firefox Resource Files, FF 120+, 100% CSS</p>
+<p align="center">Firefox Resource Files, FF 60+, 100% CSS</p>
 <div align="center">  
 
 ![GitHub Release](https://img.shields.io/github/v/release/soulhotel/Vertical-Tabs-Firefox-CSS?style=for-the-badge)
