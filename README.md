@@ -15,10 +15,18 @@
 - Groups, Containers, multi selecting, middle click closing, etc, its the regular bar tab after, youre drunk..
 <details>
 <summary>(Click me) Showing off full functionality</summary>
-► pin unpin, containers, drag to new window, free up sidebar, themes support
+pin unpin, containers, drag to new window, free up sidebar, themes support
   
 ![functionality](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/46b0c09b-0599-4e5a-8af8-1cb0ad3255fb)
 </details>
+<details>
+<summary>(Click me) Showing off Color Theme support</summary>
+
+![Screenshot_5 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/7ef945dc-e3c3-4685-ba4d-dcb45179b85e)
+![Screenshot_6 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/32fe3a22-d832-477c-83a6-9e28a7990519)
+</details>
+
+### [(Click me) for an example of how you can use these files to create themes](https://github.com/soulhotel/FF-CSS-ULTIMA)
 
 ## Modifications
 <details>
@@ -27,17 +35,13 @@
 ![autohide 1](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/8a634225-24b8-41f6-a41c-eb71447ffcb9)
 ![autohide 2](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/8da65357-ae3b-4b98-8482-5971e8b33215)
 </details>
-► A Mini Button Bar coded to handle 10 buttons.
-- - Drag and drop functional, drag all buttons out to disable. Easy to modify `function-mini-button-bar.css`.
-
-### [(Click me) for an example of how you can use these files to create themes](https://github.com/soulhotel/FF-CSS-ULTIMA)
-
-## Preview
-![Screenshot_5 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/7ef945dc-e3c3-4685-ba4d-dcb45179b85e)
-![Screenshot_6 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/32fe3a22-d832-477c-83a6-9e28a7990519)
-![Screenshot_3 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/abb15550-39e0-4f77-9339-21f73ee09be1)
-![Screenshot_2 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/d69ff0a0-48bc-4dc8-b0b3-a8ff23488292)
-![Screenshot_8](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/dac08516-aa59-4e5f-8a8c-5524c7b49bb6)
+<details>
+<summary>(Click me) A Mini Button Bar coded to handle 10 buttons.</summary>
+ Drag and drop functional, drag all buttons out to disable. Easy to modify `function-mini-button-bar.css`.<br>
+ NO EXTENSIONS! THE FOLLOWING BUTTONS WORK.
+  
+![313502235-037051e3-158c-4bd0-a8c8-d91cb6acf30a](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/47bbc63c-9267-47a0-8cc0-96ad0061dbe7)
+</details>
 
 ## Install (Note: Again, this is just a resource tool)
 ► Copy and paste the [Install Zip](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/releases/tag/verttab) into your chrome folder<br>
@@ -48,14 +52,11 @@
 </details>
 ► Restart Firefox.<br>
 
-## This is not a product release, just a share
-- Reference Modifiers to style the tabs more easily at the end of the code
+## Notes, Again, this is not a product release.
+- Reference notes and custom variables to easily customize all tabs, borders, spacing, etc
   - `pinned , not pinned , 'if one is pinned do this' , buttons, etc`
-- You can create your own color scheme for when theme addons are not used.
-- In Live Debugger, you can use my `--uc-ultima-` variables to theme all colors, window, borders, margins
-- Can use Firefox Color also
-- You cannot add extensions to the Mini Button Bar
-  - The following buttons work with the Bar
+  - `--uc-ultima-`, `--uc-ultima-tab-background`, `--uc-all-border-radius`, etc -► `all-global-positioning.css`
+- Support to create/use your own color scheme for when theme addons are not used.
+- Create a theme live, with Live Debugger, my `--uc-ultima-` variables will target everything.
 
-![313502235-037051e3-158c-4bd0-a8c8-d91cb6acf30a](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/47bbc63c-9267-47a0-8cc0-96ad0061dbe7)
 
