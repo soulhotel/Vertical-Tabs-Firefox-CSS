@@ -1,19 +1,17 @@
 # <p align="center"> Vertical Tabs </p>
-<p align="center">Firefox Resource Files, FF 60+, 100% CSS</p>
+<p align="center">Firefox Resource Files</p>
 <div align="center">  
-
-![GitHub Release](https://img.shields.io/github/v/release/soulhotel/Vertical-Tabs-Firefox-CSS?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/soulhotel/Vertical-Tabs-Firefox-CSS?style=for-the-badge)
 
 ![preview](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/05742df6-744e-4fbf-9368-f34e90b0c9ab)
 </div>
 
-## So, I fixed [MrOtherGuys Vertical Tabs](https://github.com/MrOtherGuy/firefox-csshacks) 
-- Vert tabs, without taking away your Sidebar
+###### Ive recently adopted the MPL 2.0 License, this started off as a project (attempting to fix the Vertical files function from MrOtherGuys CSSHacks) Since then, I've redone the function and leave this as a (a bit outdated) resource. [(Click me) for an example of how you can use these files to create themes](https://github.com/soulhotel/FF-CSS-ULTIMA)
+
+## So.. I attempted to fixed [MrOtherGuys Vertical Tabs](https://github.com/MrOtherGuy/firefox-csshacks) 
+- Vert tabs, without taking away your Sidebar.
 - Works with color themes, addons, because its just the regular tab bar.
 - Works with `custom CSS` that targets tabs, except for sizing, sizing can be modified within the code.
-- Full functionality, interacting with tabs, its the regular tab bar after all..
-- Groups, Containers, multi selecting, middle click closing, etc, its the regular bar tab after, youre drunk..
+- Full functionality when interacting with tabs. Groups, Containers, multi selecting, middle click closing, etc.
 <details>
 <summary>(Click me) Showing off full functionality</summary>
 pin unpin, containers, drag to new window, free up sidebar, themes support
@@ -27,9 +25,10 @@ pin unpin, containers, drag to new window, free up sidebar, themes support
 ![Screenshot_6 (Custom)](https://github.com/soulhotel/Vertical-Tabs-Firefox-CSS/assets/155501797/32fe3a22-d832-477c-83a6-9e28a7990519)
 </details>
 
-### [(Click me) for an example of how you can use these files to create themes](https://github.com/soulhotel/FF-CSS-ULTIMA)
-
 ## Modifications
+
+###### Note: a lot of this functionality can be simplified with user preferences instead of having to edit the file.
+
 <details>
 <summary>(Click me) Autohide tabs (Delete 1 line in userChrome.css to disable)</summary>
   
@@ -53,7 +52,7 @@ pin unpin, containers, drag to new window, free up sidebar, themes support
 </details>
 ► Restart Firefox.<br>
 
-## Modification Notes, again, this is just a resource.
+## Modifications
 - Reference notes and custom variables to easily customize all tabs, borders, spacing, etc
   - `pinned , not pinned , 'if one is pinned do this' , buttons, etc`
   - `--uc-ultima-`, `--uc-ultima-tab-background`, `--uc-all-border-radius`, etc -► `all-global-positioning.css`
